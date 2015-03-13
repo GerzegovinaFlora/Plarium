@@ -1,0 +1,10 @@
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\bin\Debug\PlariumTest.exe.config
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\bin\Debug\PlariumTest.exe
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\bin\Debug\PlariumTest.pdb
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\obj\Debug\PlariumTest.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\obj\Debug\PlariumTest.MainForm.resources
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\obj\Debug\PlariumTest.Resources.ProjectResource.resources
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\obj\Debug\PlariumTest.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\obj\Debug\PlariumTest.csproj.GenerateResource.Cache
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\obj\Debug\PlariumTest.exe
+C:\Users\Dmitriy\Desktop\PlariumTest\PlariumTest\obj\Debug\PlariumTest.pdb
